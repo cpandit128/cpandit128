@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandan Pandit
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently working on Selenium and Appium
+- 🌱 I’m currently working on Selenium, Appium and Flutter Automation
 - 💞️ I’m looking to collaborate on Automation Testing
 - 📫 How to reach me chandan.pandit23@gmail.com
 
